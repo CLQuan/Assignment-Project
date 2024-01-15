@@ -1,4 +1,4 @@
 | No | Name | Reflection |
 | --- | :---: | :---: |
-| git status | List all new or modified files | --- |
-| git diff | Show file differences that haven't been staged | --- |
+| 1 | List all new or modified files | --- |
+| 2 | Show file differences that haven't been staged | --- |
