@@ -12,6 +12,6 @@ Here are some assignment &amp; project I had done this semester
 
 | 3 | Assignment 3/Report | Reflection 3 <br>  | 
 
-| 4 | Assignment 4/Newsletter | Reflection 4 <br>|
+| 4 | Assignment 4/Newsletter | Reflection 4 <br> |
 
 | 5 | Quiz/PC Assemble | Reflection Quiz <br> |
