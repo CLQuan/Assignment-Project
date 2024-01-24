@@ -1,4 +1,4 @@
-# Assignments_&_
+# Assignments
 Design_Thinking_Project
 | No | Name | Reflection |
 | --- | :---: | :---: |
